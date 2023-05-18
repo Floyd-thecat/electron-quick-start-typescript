@@ -27,6 +27,7 @@ p {
     background-color: #007bff;
     color: #ffffff;
     transition: background-color 0.3s ease;
+    text-align: center;
 }
   
 /* Button Hover Effect */
@@ -38,4 +39,3 @@ p {
 .btn:active {
     background-color: #003973;
 }
-  
