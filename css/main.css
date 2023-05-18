@@ -27,7 +27,9 @@ p {
     background-color: #007bff;
     color: #ffffff;
     transition: background-color 0.3s ease;
-    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
 }
   
 /* Button Hover Effect */
