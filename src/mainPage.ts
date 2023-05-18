@@ -1,6 +1,6 @@
 // Get the element with the ID "cleancommutes"
 const cleanCommutesElement = document.getElementById('cleancommute');
-
+const loadButton = document.getElementById('tcommbtn');
 // Function to generate a random color
 function getRandomColor() {
   const letters = '0123456789ABCDEF';
